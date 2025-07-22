@@ -1,0 +1,11 @@
+Activity ID;Activity Name;Department;Assigned To;Status;Date Assigned;Date Completed;SLA Target Days;Actual Days Taken
+1001;Invoice Processing;Finance;Alice Smith;Completed;2025/07/01;2025/07/03;3;2
+1002;Customer Support;Support;Bob Johnson;Completed;2025/07/02;2025/07/04;2;2
+1003;Order Fulfillment;Operations;Carol White;Pending;2025/07/05;;4;
+1004;Quality Check;Quality;Dave Lee;Overdue;2025/06/28;;5;
+1005;Stock Replenishment;Inventory;Eve Black;Completed;2025/07/01;2025/07/02;2;1
+1006;Report Generation;Reporting;Frank Green;Completed;2025/07/03;2025/07/05;3;2
+1007;System Maintenance;IT;Grace Hill;Pending;2025/07/04;;7;
+1008;Customer Feedback;Support;Bob Johnson;Completed;2025/07/01;2025/07/01;1;0
+1009;Payment Processing;Finance;Alice Smith;Completed;2025/07/03;2025/07/06;3;3
+1010;Logistics Review;Operations;Carol White;Overdue;2025/06/30;;4;
